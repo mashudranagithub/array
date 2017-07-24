@@ -13,14 +13,12 @@ $mesMember = array(
     'Mashud'
 );
 
-//print_r($mesMember);
+print_r($mesMember);
 
-//array_pop($mesMember);
+array_pop($mesMember);
 
 print_r($mesMember);
 
-
 print_r(array_pad($mesMember,11,"blue"));
-
 
 ?>
